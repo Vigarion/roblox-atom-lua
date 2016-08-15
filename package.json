@@ -3,8 +3,17 @@
   "version": "0.9.11",
   "private": false,
   "author": {
-    "name": "FireZenk",
-    "email": "firezenk@gmail.com"
+    "name": "warrior88",
+    "email": "robloxianrages@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "FireZenk",
+      "email": "firezenk@gmail.com"
+    },
+    {
+      "name": "warrior88",
+      "email": "robloxianrages@gmail.com"
   },
   "description": "Add syntax highlighting and snippets to ROBLOX Lua files in Atom",
   "repository": {
@@ -22,7 +31,7 @@
     "url": "https://github.com/warrior88/roblox-atom-lua/issues"
   },
   "homepage": "https://github.com/warrior88/roblox-atom-lua#readme",
-  "_id": "language-lua@0.9.11",
+  "_id": "language-roblox-lua@0.9.11",
   "_shasum": "1652b750590ac2b6f1a41e679ce4500477bedec6",
   "_resolved": "file:..\\d-116715-60136-vi9ilc\\package.tgz",
   "_from": "..\\d-116715-60136-vi9ilc\\package.tgz",
