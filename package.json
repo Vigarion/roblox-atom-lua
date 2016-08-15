@@ -2,19 +2,17 @@
   "name": "roblox-lua",
   "version": "0.9.11",
   "private": false,
-  "author": {
-    "name": "warrior88",
-    "email": "robloxianrages@gmail.com"
-  },
+    "author": "warrior88 <robloxianrages@gmail.com>",
   "contributors": [
+    {
+      "name": "slixxed",
+      "email": ""
+    },
     {
       "name": "FireZenk",
       "email": "firezenk@gmail.com"
-    },
-    {
-      "name": "warrior88",
-      "email": "robloxianrages@gmail.com"
-  },
+    }
+],
   "description": "Add syntax highlighting and snippets to ROBLOX Lua files in Atom",
   "repository": {
     "type": "git",
