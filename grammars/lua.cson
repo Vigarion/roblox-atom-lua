@@ -133,7 +133,7 @@
     'name': 'keyword.control.lua'
   }
   {
-    'match': '(?<![^.]\\.|:)\\b(false|nil|true|game|workspace|plugin|script|_G|_VERSION|math\\.(pi|huge))\\b|(?<![.])\\.{3}(?!\\.)'
+    'match': '(?<![^.]\\.|:)\\b(false|nil|true|game|plugin|workspace|script|_G|_VERSION|math\\.(pi|huge))\\b|(?<![.])\\.{3}(?!\\.)'
     'name': 'constant.language.lua'
   }
   {
